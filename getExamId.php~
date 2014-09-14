@@ -17,6 +17,8 @@ function get_data($url) {
     curl_close($ch);
     return $data;
 }
+var_dump($contents);
+exit;
 $dataArray = json_decode($contents, true);
 
 if ($contents) {
