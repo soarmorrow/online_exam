@@ -1,0 +1,269 @@
+{
+    "duration": 20,
+    "test_id": "28",
+    "questions": [{
+            "answer": [{
+                    "answer": "@#$short",
+                    "ques_id": 164,
+                    "id": 603
+                }, {
+                    "answer": "int",
+                    "ques_id": 164,
+                    "id": 604
+                }, {
+                    "answer": "long",
+                    "ques_id": 164,
+                    "id": 605
+                }, {
+                    "answer": "double",
+                    "ques_id": 164,
+                    "id": 606
+                }],
+            "question": {
+                "question": "Which data type is most suitable for storing a number 65000 in a 32-bit system?",
+                "id": 164
+            }
+        }, {
+            "answer": [{
+                    "answer": "4 Bytes",
+                    "ques_id": 165,
+                    "id": 607
+                }, {
+                    "answer": "8 Bytes",
+                    "ques_id": 165,
+                    "id": 608
+                }, {
+                    "answer": "@#$Depends on the system or compiler",
+                    "ques_id": 165,
+                    "id": 609
+                }, {
+                    "answer": "Cannot be determined",
+                    "ques_id": 165,
+                    "id": 610
+                }],
+            "question": {
+                "question": "What is the size of an int data type?",
+                "id": 165
+            }
+        }, {
+            "answer": [{
+                    "answer": "Basic datatype of C",
+                    "ques_id": 166,
+                    "id": 611
+                }, {
+                    "answer": "Qualifier",
+                    "ques_id": 166,
+                    "id": 612
+                }, {
+                    "answer": "@#$short is the qualifier and int is the basic datatype",
+                    "ques_id": 166,
+                    "id": 613
+                }, {
+                    "answer": "All of the mentioned",
+                    "ques_id": 166,
+                    "id": 614
+                }],
+            "question": {
+                "question": "What is short int in C programming?",
+                "id": 166
+            }
+        }, {
+            "answer": [{
+                    "answer": "Lists",
+                    "ques_id": 175,
+                    "id": 647
+                }, {
+                    "answer": "Dictionary",
+                    "ques_id": 175,
+                    "id": 648
+                }, {
+                    "answer": "Tuples",
+                    "ques_id": 175,
+                    "id": 649
+                }, {
+                    "answer": "@#$Class",
+                    "ques_id": 175,
+                    "id": 650
+                }],
+            "question": {
+                "question": "Which of these in not a core datatype?",
+                "id": 175
+            }
+        }, {
+            "answer": [{
+                    "answer": "void",
+                    "ques_id": 176,
+                    "id": 651
+                }, {
+                    "answer": "int",
+                    "ques_id": 176,
+                    "id": 652
+                }, {
+                    "answer": "bool",
+                    "ques_id": 176,
+                    "id": 653
+                }, {
+                    "answer": "@#$None",
+                    "ques_id": 176,
+                    "id": 654
+                }],
+            "question": {
+                "question": "Given a function that does not return any value ,What value is thrown by itby default when executed in shell?",
+                "id": 176
+            }
+        }, {
+            "answer": [{
+                    "answer": "4 Bytes",
+                    "ques_id": 2,
+                    "id": 607
+                }, {
+                    "answer": "8 Bytes",
+                    "ques_id": 2,
+                    "id": 608
+                }, {
+                    "answer": "@#$Depends on the system or compiler",
+                    "ques_id": 2,
+                    "id": 609
+                }, {
+                    "answer": "Cannot be determined",
+                    "ques_id": 2,
+                    "id": 610
+                }],
+            "question": {
+                "question": "What is the size of an int data type?",
+                "id": 2
+            }
+        }, {
+            "answer": [{
+                    "answer": "Basic datatype of C",
+                    "ques_id": 3,
+                    "id": 611
+                }, {
+                    "answer": "Qualifier",
+                    "ques_id": 3,
+                    "id": 612
+                }, {
+                    "answer": "@#$short is the qualifier and int is the basic datatype",
+                    "ques_id": 3,
+                    "id": 613
+                }, {
+                    "answer": "All of the mentioned",
+                    "ques_id": 3,
+                    "id": 614
+                }],
+            "question": {
+                "question": "What is short int in C programming?",
+                "id": 3
+            }
+        }, {
+            "answer": [{
+                    "answer": "Lists",
+                    "ques_id": 4,
+                    "id": 647
+                }, {
+                    "answer": "Dictionary",
+                    "ques_id": 4,
+                    "id": 648
+                }, {
+                    "answer": "Tuples",
+                    "ques_id": 4,
+                    "id": 649
+                }, {
+                    "answer": "@#$Class",
+                    "ques_id": 4,
+                    "id": 650
+                }],
+            "question": {
+                "question": "Which of these in not a core datatype?",
+                "id": 4
+            }
+        }, {
+            "answer": [{
+                    "answer": "void",
+                    "ques_id": 5,
+                    "id": 651
+                }, {
+                    "answer": "int",
+                    "ques_id": 5,
+                    "id": 652
+                }, {
+                    "answer": "bool",
+                    "ques_id": 5,
+                    "id": 653
+                }, {
+                    "answer": "@#$None",
+                    "ques_id": 5,
+                    "id": 654
+                }],
+            "question": {
+                "question": "Given a function that does not return any value ,What value is thrown by itby default when executed in shell?",
+                "id": 5
+            }
+        }, {
+            "answer": [{
+                    "answer": "Basic datatype of C",
+                    "ques_id": 6,
+                    "id": 611
+                }, {
+                    "answer": "Qualifier",
+                    "ques_id": 6,
+                    "id": 612
+                }, {
+                    "answer": "@#$short is the qualifier and int is the basic datatype",
+                    "ques_id": 6,
+                    "id": 616
+                }, {
+                    "answer": "All of the mentioned",
+                    "ques_id": 6,
+                    "id": 614
+                }],
+            "question": {
+                "question": "What is short int in C programming?",
+                "id": 6
+            }
+        }, {
+            "answer": [{
+                    "answer": "Lists",
+                    "ques_id": 7,
+                    "id": 677
+                }, {
+                    "answer": "Dictionary",
+                    "ques_id": 7,
+                    "id": 678
+                }, {
+                    "answer": "Tuples",
+                    "ques_id": 7,
+                    "id": 679
+                }, {
+                    "answer": "@#$Class",
+                    "ques_id": 7,
+                    "id": 650
+                }],
+            "question": {
+                "question": "Which of these in not a core datatype?",
+                "id": 7
+            }
+        }, {
+            "answer": [{
+                    "answer": "void",
+                    "ques_id": 8,
+                    "id": 651
+                }, {
+                    "answer": "int",
+                    "ques_id": 8,
+                    "id": 652
+                }, {
+                    "answer": "bool",
+                    "ques_id": 8,
+                    "id": 653
+                }, {
+                    "answer": "@#$None",
+                    "ques_id": 8,
+                    "id": 654
+                }],
+            "question": {
+                "question": "Given a function that does not return any value ,What value is thrown by itby default when executed in shell?",
+                "id": 8
+            }
+        }]
+}
